@@ -1,0 +1,130 @@
+{
+  "zookeepers": [
+    {
+      "id": "0",
+      "name": "Kim",
+      "age": 28,
+      "favoriteAnimal": "dolphin"
+    },
+    {
+      "id": "1",
+      "name": "Raksha",
+      "age": 31,
+      "favoriteAnimal": "penguin"
+    },
+    {
+      "id": "2",
+      "name": "Isabella",
+      "age": 67,
+      "favoriteAnimal": "bear"
+    },
+    {
+      "id": "3",
+      "name": "Linda",
+      "age": 48,
+      "favoriteAnimal": "otter"
+    },
+    {
+      "id": "4",
+      "name": "Ryan",
+      "age": 20,
+      "favoriteAnimal": "dog"
+    },
+    {
+      "id": "5",
+      "name": "Alex",
+      "age": 32,
+      "favoriteAnimal": "Sloths"
+    },
+    {
+      "id": "6",
+      "name": "Amiko",
+      "age": 43,
+      "favoriteAnimal": "Quokkas"
+    },
+    {
+      "id": "7",
+      "name": "Emmy",
+      "age": 29,
+      "favoriteAnimal": "Duckbilled Platypus"
+    },
+    {
+      "id": "8",
+      "name": "Lernantino",
+      "age": 19,
+      "favoriteAnimal": "Business Cat"
+    },
+    {
+      "name": "Les",
+      "age": 64,
+      "favoriteAnimal": "Rabbit",
+      "id": "9"
+    },
+    {
+      "name": "tiana",
+      "age": 29,
+      "favoriteAnimal": "bear",
+      "id": "10"
+    },
+    {
+      "name": "sam",
+      "age": 27,
+      "favoriteAnimal": "cat",
+      "id": "11"
+    },
+    {
+      "name": "sam",
+      "age": 27,
+      "favoriteAnimal": "cat",
+      "id": "12"
+    },
+    {
+      "name": "Dave",
+      "age": 29,
+      "favoriteAnimal": "horse",
+      "id": "13"
+    },
+    {
+      "name": "zack",
+      "age": 26,
+      "favoriteAnimal": "horse",
+      "id": "14"
+    },
+    {
+      "name": "tia",
+      "age": 24,
+      "favoriteAnimal": "dog",
+      "id": "15"
+    },
+    {
+      "name": "sam",
+      "age": 40,
+      "favoriteAnimal": "cat",
+      "id": "16"
+    },
+    {
+      "name": "Craig",
+      "age": 56,
+      "favoriteAnimal": "bear",
+      "id": "17"
+    },
+    {
+      "name": "Samantha",
+      "age": 35,
+      "favoriteAnimal": "kitty",
+      "id": "18"
+    },
+    {
+      "name": "tracy",
+      "age": 55,
+      "favoriteAnimal": "cat",
+      "id": "19"
+    },
+    {
+      "name": "ted",
+      "age": 54,
+      "favoriteAnimal": "bunny",
+      "id": "20"
+    }
+  ]
+}

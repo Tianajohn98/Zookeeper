@@ -108,6 +108,33 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "fox",
+      "species": "dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "can",
+      "species": "cat",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "tank",
+      "species": "dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
     }
   ]
 }
